@@ -34,7 +34,7 @@ export default function Home(initialData) {
       <div className='container'>
         <Head>
           <title>Giphy Search App</title>
-          <meta name="description" content="Love giphys? We do too. Use our advanced giphy search to find the perfect giphy for any occation"></meta>
+          <meta name="description" content="Love giphys? We do too. Use our advanced giphy search tool to find the perfect giphy for any occation"></meta>
           <link rel="icon" href="/favicon.ico" />
           <link rel="stylesheet" href="/styles.css" />
         </Head>

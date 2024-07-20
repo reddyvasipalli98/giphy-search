@@ -1,2 +1,2 @@
 # giphy-search
-Search app for giphy applications
+Search app for giphy applications to search for giphies
